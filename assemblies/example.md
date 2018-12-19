@@ -12,15 +12,15 @@
 
 ### Why are we here?
 
-* statement 1
-* statement 2
-* statement 3
+* our goal for 35c3
+* what do we want to achieve
+* where do we present our outcome
 
 --
 
 ## Assembly name
 
-### Our highlights at OIO
+### Our highlights for OIO
 
 * highlight 1
 * highlight 2
