@@ -1,27 +1,44 @@
-## Freifunk-IoT
+ Freifunk-IoT
+------
 
-### What is Freifunk-IoT about?
+ <img src="https://freifunk-iot.de/images/ffiot_logo_website.svg" width="60%" style="border: none; padding: 20px;"/>
+
+--
+
+ Freifunk and IoT?
+-------
 
 * Does Freifunk just provide Internet or could it be more?
 * How can we encourage people to build more upon Freifunk? Maybe IoT-Devices?
 * Easy starting point into DIY-Sensors
+* Ecosystem for DIY and open sensors
 
 --
 
-## Freifunk-IoT
-
-### Why are we here?
+ FF-IoT @OIO
+-------
 
 * Share our idea and concepts
 * Discuss possibilities
 * Extend the technical aspects
 
+What do you want/need?
+
 --
 
-## Freifunk-IoT
+ FF-IoT @OIO
+-------
 
-### Our highlights at OIO
+<img src="https://freifunk-iot.de/images/banner.jpg" width="60%" style="border: none;"/>
+* Very useful hardware ♡ (Come to Thementisch 1)
 
-* Today 14:00: What is Freifunk-IoT about?
-* Hardware-Demo
-* Discuss and Develop
+--
+
+ FF-IoT @OIO
+-------
+
+* Today 14:00: Presentation about the project
+* We need you: discuss and develop
+    <sup>
+    * Should we include a blockchain?
+    * What kind of measurement do you need?</sup>
