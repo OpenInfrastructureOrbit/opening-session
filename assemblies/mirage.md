@@ -1,6 +1,6 @@
 ## [MirageOS](https://mirage.io)
 
-<img src="/media/mirageos.png" width="60%" style="border: none;"/>
+<img src="media/mirageos.png" width="60%" style="border: none;"/>
 
 --
 
