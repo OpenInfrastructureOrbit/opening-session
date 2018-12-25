@@ -1,3 +1,3 @@
 ## Freifunk
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Freifunk.net.svg" width="60%" style="border: none;"/>
+<img src="https://oio.social/images/logos/175x170_freifunknet.png" width="60%" style="border: none;"/>
