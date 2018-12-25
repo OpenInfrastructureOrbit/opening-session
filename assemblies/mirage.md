@@ -1,6 +1,6 @@
 ## [MirageOS](https://mirage.io)
 
-![[Logo](http://gazagnaire.org/mirage/mirageos.png)]
+![[Logo](/media/mirageos.png)]
 
 ### Unikernel - library operating system
 
