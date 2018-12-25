@@ -1,6 +1,10 @@
 ## [MirageOS](https://mirage.io)
 
-![[Logo](/media/mirageos.png)]
+<img src="/media/mirageos.png" width="60%" style="border: none;"/>
+
+--
+
+## MirageOS
 
 ### Unikernel - library operating system
 
