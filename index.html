@@ -19,6 +19,13 @@
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
 
+		<style>
+			#index-page #footer,
+			#index-page #myLogo {
+				display: none;
+			}
+		</style>
+
 		<!-- Printing and PDF exports -->
 		<script>
 			var link = document.createElement( 'link' );
@@ -32,7 +39,7 @@
 		<div class="reveal">
 			<div class="slides">
 				<div id="myLogo" style="padding-left: 2%;"><img align="left" src="media/oio-logo.png" style="max-height: 90px;"/></div>
-				<div class="footer">
+				<div id="footer" class="footer">
 					Open Infrastructure Orbit, Opening Session, 27. December 2018
 				</div>
 				<section data-separator-vertical="^\n--\n$" data-markdown="title.md"></section>
