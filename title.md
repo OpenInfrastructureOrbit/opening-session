@@ -1,8 +1,1 @@
-# Open Infrastructure Orbit
-
-
------
-
-</br>
-## Opening Session
-</br></br>
+<section data-state="animation" data-background-iframe="/animation.html"></section>
