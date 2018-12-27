@@ -32,8 +32,8 @@
 
 ### Our program at 35c3
 
-> We'll have a Nextcloud Install workshop on day 4
-> We'll have two talks about different aspects of Nextcloud on the OIO stage
-> We're here to chat at OIO and looking forward to meeting you!
+* We'll have a Nextcloud Install workshop on day 4
+* We'll have two talks about different aspects of Nextcloud on the OIO stage
+* We're here to chat at OIO and looking forward to meeting you!
 
 
