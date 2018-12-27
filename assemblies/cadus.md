@@ -8,7 +8,7 @@ Cadus
 Cadus
 -------
 
-### WWhat is Cadus about?
+### What is Cadus about?
 
 Humanitarian Aid in Crisis and War Zones; 
 
