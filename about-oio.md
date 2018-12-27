@@ -3,7 +3,7 @@
 ### Open Infrastructure Orbit?
 
 * several groups and assemblies
-* safe harbour
+* safe harbour for all of us
 * Topics: radio, space, wifi, human aid, search and rescue, wurst
 
 --

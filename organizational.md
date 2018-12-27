@@ -8,6 +8,8 @@
 
 --
 
+## Organizational
+
 ### Infopoint
 
 * Point of Contact for OIO
@@ -15,6 +17,8 @@
 * sign up for
 
 --
+
+## Organizational
 
 ### Presentation Desks
 
@@ -24,6 +28,17 @@
 
 --
 
+## Organizational
+
+### Soldering area
+
+* managed by chaoswelle
+* Junghackertag
+
+--
+
+## Organizational
+
 ### Angels wanted
 
 * several angel types
@@ -32,7 +47,10 @@
 
 --
 
+## Organizational
+
 ### Contact
 
 * Rocket Chat
+* https://oio.social
 * Call Orgateam at DECT 6467
